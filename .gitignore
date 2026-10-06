@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Large data — store in Google Drive, not GitHub
+data/
+*.nii.gz
+*.npy
