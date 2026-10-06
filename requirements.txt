@@ -1,0 +1,10 @@
+neurolib
+nilearn
+nibabel
+bctpy
+networkx
+pingouin
+optuna
+openneuro-py
+neuromaps
+abagen
